@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos-Bandit/Level 0.md",
+                "file": "Retos-Bandit/Level 9 to Level 10.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos-Bandit/Level 0.md",
+                "file": "Retos-Bandit/Level 9 to Level 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos-Bandit/Level 0.md",
+                "file": "Retos-Bandit/Level 9 to Level 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos-Bandit/Level 0.md"
+                "file": "Retos-Bandit/Level 9 to Level 10.md"
               }
             }
           }
@@ -148,10 +148,21 @@
   },
   "active": "c870f8c9af2b8601",
   "lastOpenFiles": [
-    "Comandos y atajos.md",
+    "Retos-Bandit/Level 8 to Level 9.md",
+    "Retos-Bandit/Level 3 to Level 4.md",
     "Retos-Bandit/Level 0.md",
-    "README.md",
+    "Retos-Bandit/Level 0 to Level 1.md",
+    "Retos-Bandit/Level 7 to Level 8.md",
+    "Retos-Bandit/Level 9 to Level 10.md",
+    "Retos-Bandit/Level 6 to Level 7.md",
+    "Retos-Bandit/Level 5 to Level 6.md",
+    "Retos-Bandit/Level 4 to Level 5.md",
+    "Retos-Bandit/Level 2 to Level 3.md",
+    "Retos-Bandit/Level 1 to Level 2.md",
     "Retos-Bandit/Plantilla.md",
+    "Retos-Bandit/Level.md",
+    "Comandos y atajos.md",
+    "README.md",
     "Ciberseguridad/Retos-Bandit/Plantilla.md",
     "Ciberseguridad/Retos-Bandit/Level 0.md",
     "Ciberseguridad/Retos-Bandit",
