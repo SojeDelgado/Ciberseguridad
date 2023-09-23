@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ed5e9f2fe9c0dd5f",
+            "id": "a2bcec53ba211859",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos-Bandit/Level 33 → Level 34.md",
+                "file": "Retos-Bandit/Level 31 → Level 32.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos-Bandit/Plantilla.md",
+                "file": "Retos-Bandit/Level 32 → Level 33.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos-Bandit/Level 33 → Level 34.md",
+                "file": "Retos-Bandit/Level 32 → Level 33.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos-Bandit/Level 33 → Level 34.md",
+                "file": "Retos-Bandit/Level 32 → Level 33.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos-Bandit/Level 33 → Level 34.md"
+                "file": "Retos-Bandit/Level 32 → Level 33.md"
               }
             }
           },
@@ -168,16 +169,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ed5e9f2fe9c0dd5f",
+  "active": "efda5eb4722fee67",
   "lastOpenFiles": [
     "Retos-Bandit/Level 31 → Level 32.md",
+    "Retos-Bandit/Level 32 → Level 33.md",
     "Retos-Bandit/Level 30 → Level 31.md",
+    "Retos-Bandit/Plantilla.md",
+    "Retos-Bandit/Level 33 → Level 34.md",
     "Retos-Bandit/Level 29 → Level 30.md",
     "Retos-Bandit/Level 28 → Level 29.md",
     "Retos-Bandit/Level 27 → Level 28.md",
-    "Retos-Bandit/Level 33 → Level 34.md",
     "Retos-Bandit/Level 0.md",
-    "Retos-Bandit/Plantilla.md",
     "Retos-Bandit/Level 0 → Level 1.md",
     "Retos-Bandit/Level 1 →  Level 2.md",
     "Retos-Bandit/Level 2 →  Level 3.md",
@@ -195,7 +197,6 @@
     "Retos-Bandit/Level 14 → Level 15.md",
     "Retos-Bandit/Level 15 → Level 16.md",
     "Retos-Bandit/Level 16 → Level 17.md",
-    "Retos-Bandit/Level 17 → Level 18.md",
     "Ciberseguridad/Retos-Bandit",
     "Ciberseguridad",
     "Ciberseguridad/Retos-Bandit - copia",
