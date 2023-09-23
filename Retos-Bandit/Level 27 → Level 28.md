@@ -22,5 +22,7 @@ bandit27@bandit:/tmp/tmp.iNjaPPWKrj/repo$ cat README
 The password to the next level is: AVanL161y9rsbcJIsFHuw35rjaOM19nR
 ```
 ## Notas adicionales
+Si no se especifica el puerto no tengo acceso al repositorio.
+Entonces colocamos localhost:2220
 
 ## Referencias
