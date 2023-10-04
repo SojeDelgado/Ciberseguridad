@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Actividad-10/5- Client-side-again.md",
+                "file": "Retos-WEB/Actividad-11/JaWT Scratchpad.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Actividad-10/5- Client-side-again.md",
+                "file": "Retos-WEB/Actividad-11/JaWT Scratchpad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Actividad-10/5- Client-side-again.md",
+                "file": "Retos-WEB/Actividad-11/JaWT Scratchpad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Actividad-10/5- Client-side-again.md"
+                "file": "Retos-WEB/Actividad-11/JaWT Scratchpad.md"
               }
             }
           },
@@ -171,15 +171,21 @@
   },
   "active": "77af77a0751241b9",
   "lastOpenFiles": [
-    "Actividad-10/4- where are the robots.md",
-    "Actividad-10/3- logon.md",
-    "Actividad-10/2- dont-use-client-side.md",
-    "Actividad-10/1- Insp3ctor.md",
-    "Actividad-10/6- picobrowser.md",
+    "Retos-WEB/Actividad-11/Irish-Name-Repo 3.md",
+    "Retos-WEB/Actividad-11/Irish-Name-Repo 2.md",
+    "Retos-WEB/Actividad-11/JaWT Scratchpad.md",
+    "Retos-WEB/Actividad-11/Irish-Name-Repo 1.md",
     "Primer-examen-parcial/Parte-1/Plantilla.md",
-    "Actividad-10/5- Client-side-again.md",
+    "Retos-WEB/Actividad-10/5- Client-side-again.md",
+    "Retos-WEB/Actividad-11",
+    "Retos-WEB",
+    "Retos-WEB/Actividad-10/4- where are the robots.md",
+    "Retos-WEB/Actividad-10/3- logon.md",
+    "Retos-WEB/Actividad-10/2- dont-use-client-side.md",
+    "Retos-WEB/Actividad-10/1- Insp3ctor.md",
+    "Retos-WEB/Actividad-10/6- picobrowser.md",
     "Primer-examen-parcial/Parte-3/8- plumbing.md",
-    "Actividad-10",
+    "Retos-WEB/Actividad-10",
     "Primer-examen-parcial/Parte-1/4- Static ain't always noise.md",
     "Primer-examen-parcial/Parte-1/5- Tab, Tab, Attack.md",
     "Primer-examen-parcial/Parte-1/7- Lets Warm Up.md",
@@ -195,16 +201,11 @@
     "Primer-examen-parcial/Parte-2/6- fixme1.py.md",
     "Primer-examen-parcial/Parte-3",
     "Primer-examen-parcial/Parte-2/8- what's a net cat.md",
-    "Primer-examen-parcial/Parte-2/7- strings it.md",
-    "Primer-examen-parcial/Parte-1/6- Magikarp Ground Mission.md",
-    "Primer-examen-parcial/Parte-2/5- First Grep.md",
-    "Primer-examen-parcial/Parte-2/4- convertme.py.md",
     "Primer-examen-parcial/Parte-2",
     "Primer-examen-parcial/Parte-1",
     "Primer-examen-parcial",
     "Ciberseguridad/Retos-Bandit",
     "Ciberseguridad",
-    "Ciberseguridad/Retos-Bandit - copia",
-    "Team Software Process"
+    "Ciberseguridad/Retos-Bandit - copia"
   ]
 }
