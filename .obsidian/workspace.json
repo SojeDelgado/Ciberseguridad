@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "77af77a0751241b9",
+            "id": "e3699666cd5f4528",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos-WEB/Parte - 3/3 - Scavenger Hunt.md",
+                "file": "Retos-Forensic/4- So Meta.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos-WEB/Parte - 3/3 - Scavenger Hunt.md",
+                "file": "Retos-Forensic/4- So Meta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos-WEB/Parte - 3/3 - Scavenger Hunt.md",
+                "file": "Retos-Forensic/4- So Meta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos-WEB/Parte - 3/3 - Scavenger Hunt.md"
+                "file": "Retos-Forensic/4- So Meta.md"
               }
             }
           },
@@ -169,9 +169,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "77af77a0751241b9",
+  "active": "e3699666cd5f4528",
   "lastOpenFiles": [
+    "Retos-Forensic/1- Glory of the Garden.md",
+    "Retos-Forensic/3- shark on wire 1.md",
+    "Retos-Forensic/2- extensions.md",
+    "Retos-Forensic/4- So Meta.md",
+    "Retos-Forensic/5- What Lies Within.md",
+    "Imagenes/garden.png",
+    "Imagenes/flag.png",
     "Primer-examen-parcial/Parte-1/Plantilla.md",
+    "Imagenes",
+    "Imagenes/Screenshot_1.png",
+    "Retos-Forensic",
     "Retos-WEB/Parte - 3/3 - Scavenger Hunt.md",
     "Retos-WEB/Parte - 3/2 - Cookies.md",
     "Retos-Bandit/Plantilla.md",
@@ -198,14 +208,6 @@
     "Primer-examen-parcial/Parte-3/8- plumbing.md",
     "Retos-WEB/Parte - 1",
     "Primer-examen-parcial/Parte-1/4- Static ain't always noise.md",
-    "Primer-examen-parcial/Parte-1/5- Tab, Tab, Attack.md",
-    "Primer-examen-parcial/Parte-1/7- Lets Warm Up.md",
-    "Primer-examen-parcial/Parte-1/8- Warmed Up.md",
-    "Primer-examen-parcial/Parte-3/7- Based.md",
-    "Primer-examen-parcial/Parte-3/6- runme.py.md",
-    "Primer-examen-parcial/Parte-3/5- PW Crack 3.md",
-    "Primer-examen-parcial/Parte-3",
-    "Primer-examen-parcial/Parte-2",
-    "Primer-examen-parcial/Parte-1"
+    "Primer-examen-parcial/Parte-3"
   ]
 }
