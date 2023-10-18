@@ -5,7 +5,7 @@ Fui a la página web https://hexed.it/
 Después inserté el archivo jpg en la WEB y en el buscador inserté pico
 picoCTF{s0_m3ta_eb36bf44}
 
-![[Screenshot_1.png]]
+![[Screenshot_1 1.png]]
 ## Notas adicionales
 
 ## Referencias

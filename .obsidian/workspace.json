@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primer-examen-parcial/Parte-1/Plantilla.md",
+                "file": "Retos-Forensic/Parte-2/5- shark on wire 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos-Forensic/4- So Meta.md",
+                "file": "Primer-examen-parcial/Parte-1/Plantilla.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos-Forensic/4- So Meta.md",
+                "file": "Retos-Forensic/Parte-2/5- shark on wire 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos-Forensic/4- So Meta.md",
+                "file": "Retos-Forensic/Parte-2/5- shark on wire 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos-Forensic/4- So Meta.md"
+                "file": "Retos-Forensic/Parte-2/5- shark on wire 2.md"
               }
             }
           },
@@ -169,16 +168,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3699666cd5f4528",
+  "active": "53ecfce821b2ff00",
   "lastOpenFiles": [
-    "Retos-Forensic/1- Glory of the Garden.md",
-    "Retos-Forensic/3- shark on wire 1.md",
-    "Retos-Forensic/2- extensions.md",
-    "Retos-Forensic/4- So Meta.md",
-    "Retos-Forensic/5- What Lies Within.md",
+    "Retos-Forensic/Parte-2/4- WhitePages.md",
+    "Retos-Forensic/Parte-2/5- shark on wire 2.md",
+    "Retos-Forensic/Parte-2/1- c0rrupt.md",
+    "Retos-Forensic/Parte-2/2- like1000.md",
+    "Imagenes/Screenshot_3.png",
+    "Imagenes/Screenshot_2.png",
+    "Retos-Forensic/Parte-2/3- m00nwalk.md",
+    "Imagenes/Screenshot_1 1.png",
+    "Primer-examen-parcial/Parte-1/Plantilla.md",
+    "Retos-Forensic/Parte-1/5- What Lies Within.md",
+    "Retos-Forensic/Parte-2",
+    "Retos-Forensic/Parte-1",
+    "Retos-Forensic/Parte-1/4- So Meta.md",
+    "Retos-Forensic/Parte-1/1- Glory of the Garden.md",
+    "Retos-Forensic/Parte-1/3- shark on wire 1.md",
+    "Retos-Forensic/Parte-1/2- extensions.md",
     "Imagenes/garden.png",
     "Imagenes/flag.png",
-    "Primer-examen-parcial/Parte-1/Plantilla.md",
     "Imagenes",
     "Imagenes/Screenshot_1.png",
     "Retos-Forensic",
@@ -201,13 +210,6 @@
     "Retos-WEB/Parte - 2",
     "Retos-WEB",
     "Retos-WEB/Parte - 1/4- where are the robots.md",
-    "Retos-WEB/Parte - 1/3- logon.md",
-    "Retos-WEB/Parte - 1/2- dont-use-client-side.md",
-    "Retos-WEB/Parte - 1/1- Insp3ctor.md",
-    "Retos-WEB/Parte - 1/6- picobrowser.md",
-    "Primer-examen-parcial/Parte-3/8- plumbing.md",
-    "Retos-WEB/Parte - 1",
-    "Primer-examen-parcial/Parte-1/4- Static ain't always noise.md",
-    "Primer-examen-parcial/Parte-3"
+    "Retos-WEB/Parte - 1/3- logon.md"
   ]
 }
