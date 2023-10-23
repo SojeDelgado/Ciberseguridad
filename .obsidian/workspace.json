@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos-Forensic/Parte-2/5- shark on wire 2.md",
+                "file": "Retos-Forensic/Parte-3/3- MacroHard WeakEdge.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos-Forensic/Parte-2/5- shark on wire 2.md",
+                "file": "Retos-Forensic/Parte-3/3- MacroHard WeakEdge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos-Forensic/Parte-2/5- shark on wire 2.md",
+                "file": "Retos-Forensic/Parte-3/3- MacroHard WeakEdge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos-Forensic/Parte-2/5- shark on wire 2.md"
+                "file": "Retos-Forensic/Parte-3/3- MacroHard WeakEdge.md"
               }
             }
           },
@@ -170,7 +170,15 @@
   },
   "active": "53ecfce821b2ff00",
   "lastOpenFiles": [
+    "Retos-Forensic/Parte-3/2- tunn3l v1s10n.md",
+    "Imagenes/Screenshot_2 1.png",
+    "Primer-examen-parcial/Parte-1/Plantilla.md",
+    "Retos-Forensic/Parte-3/1- Matryoshka doll.md",
+    "Retos-Forensic/Parte-3/3- MacroHard WeakEdge.md",
+    "Retos-Forensic/Parte-3/5- WebNet1.md",
+    "Retos-Forensic/Parte-3/4- WebNet0.md",
     "Retos-Forensic/Parte-2/4- WhitePages.md",
+    "Retos-Forensic/Parte-3",
     "Retos-Forensic/Parte-2/5- shark on wire 2.md",
     "Retos-Forensic/Parte-2/1- c0rrupt.md",
     "Retos-Forensic/Parte-2/2- like1000.md",
@@ -178,7 +186,6 @@
     "Imagenes/Screenshot_2.png",
     "Retos-Forensic/Parte-2/3- m00nwalk.md",
     "Imagenes/Screenshot_1 1.png",
-    "Primer-examen-parcial/Parte-1/Plantilla.md",
     "Retos-Forensic/Parte-1/5- What Lies Within.md",
     "Retos-Forensic/Parte-2",
     "Retos-Forensic/Parte-1",
@@ -204,12 +211,6 @@
     "MetaRedCTF/Stego",
     "MetaRedCTF",
     "Retos-WEB/Parte - 2/Irish-Name-Repo 3.md",
-    "Retos-WEB/Parte - 2/Irish-Name-Repo 2.md",
-    "Retos-WEB/Parte - 2/Irish-Name-Repo 1.md",
-    "Retos-WEB/Parte - 1/5- Client-side-again.md",
-    "Retos-WEB/Parte - 2",
-    "Retos-WEB",
-    "Retos-WEB/Parte - 1/4- where are the robots.md",
-    "Retos-WEB/Parte - 1/3- logon.md"
+    "Retos-WEB/Parte - 2"
   ]
 }

@@ -5,7 +5,7 @@ Convertimos el archivo a jpg
 Descargamos pngcheck en linux
 y vemos los errores que nos va lanzando el archivo
 Al repararlos nos dará la siguiente imagen
-![[Screenshot_2.png]]
+![[Screenshot_2 1.png]]
 picoCTF{c0rrupt10n_1847995}
 ## Notas adicionales
 
