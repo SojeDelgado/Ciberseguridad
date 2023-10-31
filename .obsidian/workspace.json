@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos-Crypto/7- waves over lambda.md",
+                "file": "Retos-Crypto/parte-2/3- b00tl3gRSA2.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos-Crypto/7- waves over lambda.md",
+                "file": "Retos-Crypto/parte-2/3- b00tl3gRSA2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos-Crypto/7- waves over lambda.md",
+                "file": "Retos-Crypto/parte-2/3- b00tl3gRSA2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos-Crypto/7- waves over lambda.md"
+                "file": "Retos-Crypto/parte-2/3- b00tl3gRSA2.md"
               }
             }
           },
@@ -170,6 +170,11 @@
   },
   "active": "53ecfce821b2ff00",
   "lastOpenFiles": [
+    "Retos-Crypto/parte-2/1-rsa-pop-quiz.md",
+    "Retos-Crypto/parte-2/3- b00tl3gRSA2.md",
+    "Retos-Crypto/parte-2/2- miniRSA.md",
+    "Retos-Crypto/7- waves over lambda.md",
+    "Retos-Crypto/parte-2",
     "Retos-Crypto/6- Tapping.md",
     "Retos-Crypto/5- la cifra de.md",
     "Retos-Bandit/Level 26 → Level 27.md",
@@ -177,7 +182,6 @@
     "Retos-Crypto/3- caesar.md",
     "Retos-Crypto/2- 13.md",
     "Retos-Crypto/1- The Numbers.md",
-    "Retos-Crypto/7- waves over lambda.md",
     "Retos-Forensic/Parte-3/3- MacroHard WeakEdge.md",
     "Retos-Crypto",
     "Retos-Forensic/Parte-3/2- tunn3l v1s10n.md",
@@ -201,17 +205,13 @@
     "Retos-Forensic/Parte-1/4- So Meta.md",
     "Retos-Forensic/Parte-1/1- Glory of the Garden.md",
     "Retos-Forensic/Parte-1/3- shark on wire 1.md",
-    "Retos-Forensic/Parte-1/2- extensions.md",
     "Imagenes/garden.png",
     "Imagenes/flag.png",
     "Imagenes",
     "Imagenes/Screenshot_1.png",
     "Retos-Forensic",
-    "Retos-WEB/Parte - 3/3 - Scavenger Hunt.md",
-    "Retos-WEB/Parte - 3/2 - Cookies.md",
     "Retos-WEB/Parte - 3",
     "MetaRedCTF/MISC",
-    "MetaRedCTF/Stego",
-    "MetaRedCTF"
+    "MetaRedCTF/Stego"
   ]
 }
