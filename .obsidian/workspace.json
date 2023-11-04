@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos-Crypto/parte-2/3- b00tl3gRSA2.md",
+                "file": "Examenes/2do_examen/Parte-2/7- St3go.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primer-examen-parcial/Parte-1/Plantilla.md",
+                "file": "Examenes/1er_examen/Parte-1/Plantilla.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos-Crypto/parte-2/3- b00tl3gRSA2.md",
+                "file": "Examenes/2do_examen/Parte-2/7- St3go.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos-Crypto/parte-2/3- b00tl3gRSA2.md",
+                "file": "Examenes/2do_examen/Parte-2/7- St3go.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos-Crypto/parte-2/3- b00tl3gRSA2.md"
+                "file": "Examenes/2do_examen/Parte-2/7- St3go.md"
               }
             }
           },
@@ -170,8 +170,29 @@
   },
   "active": "53ecfce821b2ff00",
   "lastOpenFiles": [
-    "Retos-Crypto/parte-2/1-rsa-pop-quiz.md",
+    "Examenes/2do_examen/Parte-2/6- Redaction gone wrong.md",
+    "Examenes/2do_examen/Parte-2/7- St3go.md",
+    "Examenes/1er_examen/Parte-1/Plantilla.md",
+    "Examenes/2do_examen/Parte-2/5- Packets Primer.md",
+    "Examenes/2do_examen/Parte-2/4- Lookey here.md",
+    "Examenes/2do_examen/Parte-2/3- Enhance!.md",
+    "Examenes/2do_examen/Parte-2/2- Wireshark doo dooo do doo....md",
+    "Examenes/2do_examen/Parte-2/1- information.md",
+    "Examenes/2do_examen/Parte-1/9- SQL Direct.md",
+    "Examenes/2do_examen/Parte-2",
+    "Examenes/2do_examen/Parte-1/1- Includes.md",
+    "Examenes/2do_examen/Parte-1/2- Inspect HTML.md",
+    "Examenes/2do_examen/Parte-1",
+    "Examenes/2do_examen/Parte-1/8- Secrets.md",
+    "Examenes/2do_examen/Parte-1/7- Roboto Sans.md",
+    "Examenes/2do_examen/Parte-1/3- Local Authority.md",
+    "Examenes/2do_examen/Parte-1/4- Search source.md",
+    "Examenes/2do_examen/Parte-1/5- Forbidden Paths.md",
+    "Examenes/2do_examen/Parte-1/6- Power Cookie.md",
     "Retos-Crypto/parte-2/3- b00tl3gRSA2.md",
+    "Examenes",
+    "Examenes/2do_examen",
+    "Retos-Crypto/parte-2/1-rsa-pop-quiz.md",
     "Retos-Crypto/parte-2/2- miniRSA.md",
     "Retos-Crypto/7- waves over lambda.md",
     "Retos-Crypto/parte-2",
@@ -180,38 +201,17 @@
     "Retos-Bandit/Level 26 → Level 27.md",
     "Retos-Crypto/4- Easy1.md",
     "Retos-Crypto/3- caesar.md",
-    "Retos-Crypto/2- 13.md",
-    "Retos-Crypto/1- The Numbers.md",
-    "Retos-Forensic/Parte-3/3- MacroHard WeakEdge.md",
     "Retos-Crypto",
-    "Retos-Forensic/Parte-3/2- tunn3l v1s10n.md",
     "Imagenes/Screenshot_2 1.png",
-    "Primer-examen-parcial/Parte-1/Plantilla.md",
-    "Retos-Forensic/Parte-3/1- Matryoshka doll.md",
-    "Retos-Forensic/Parte-3/5- WebNet1.md",
-    "Retos-Forensic/Parte-3/4- WebNet0.md",
-    "Retos-Forensic/Parte-2/4- WhitePages.md",
     "Retos-Forensic/Parte-3",
-    "Retos-Forensic/Parte-2/5- shark on wire 2.md",
-    "Retos-Forensic/Parte-2/1- c0rrupt.md",
-    "Retos-Forensic/Parte-2/2- like1000.md",
     "Imagenes/Screenshot_3.png",
     "Imagenes/Screenshot_2.png",
-    "Retos-Forensic/Parte-2/3- m00nwalk.md",
     "Imagenes/Screenshot_1 1.png",
-    "Retos-Forensic/Parte-1/5- What Lies Within.md",
     "Retos-Forensic/Parte-2",
     "Retos-Forensic/Parte-1",
-    "Retos-Forensic/Parte-1/4- So Meta.md",
-    "Retos-Forensic/Parte-1/1- Glory of the Garden.md",
-    "Retos-Forensic/Parte-1/3- shark on wire 1.md",
     "Imagenes/garden.png",
     "Imagenes/flag.png",
     "Imagenes",
-    "Imagenes/Screenshot_1.png",
-    "Retos-Forensic",
-    "Retos-WEB/Parte - 3",
-    "MetaRedCTF/MISC",
-    "MetaRedCTF/Stego"
+    "Imagenes/Screenshot_1.png"
   ]
 }
