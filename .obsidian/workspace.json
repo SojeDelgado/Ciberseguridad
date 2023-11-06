@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "53ecfce821b2ff00",
+            "id": "d5e6f9c33316bfda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Examenes/2do_examen/Parte-2/7- St3go.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3699666cd5f4528",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Examenes/1er_examen/Parte-1/Plantilla.md",
+                "file": "Reversing/5- vault-door-5.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Examenes/2do_examen/Parte-2/7- St3go.md",
+                "file": "Reversing/5- vault-door-5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Examenes/2do_examen/Parte-2/7- St3go.md",
+                "file": "Reversing/5- vault-door-5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Examenes/2do_examen/Parte-2/7- St3go.md"
+                "file": "Reversing/5- vault-door-5.md"
               }
             }
           },
@@ -168,10 +156,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53ecfce821b2ff00",
+  "active": "d5e6f9c33316bfda",
   "lastOpenFiles": [
-    "Examenes/2do_examen/Parte-2/6- Redaction gone wrong.md",
+    "Reversing/4- vault-door-4.md",
+    "Reversing/5- vault-door-5.md",
+    "Reversing/3- vault-door-3.md",
+    "Reversing/2- vault-door-1.md",
+    "Reversing/1- vault-door-training.md",
+    "Retos-Crypto/parte-3/5- ReadMyCert.md",
+    "Reversing",
+    "Retos-Crypto/parte-3/4- Pixelated.md",
+    "Retos-Crypto/parte-3/3- HideToSee.md",
+    "Retos-Crypto/parte-3/2- basic-mod1.md",
+    "Retos-Crypto/parte-3/1- Mind your Ps and Qs.md",
     "Examenes/2do_examen/Parte-2/7- St3go.md",
+    "Retos-Crypto/parte-3",
+    "Retos-Crypto/parte-1",
+    "Examenes/2do_examen/Parte-2/6- Redaction gone wrong.md",
     "Examenes/1er_examen/Parte-1/Plantilla.md",
     "Examenes/2do_examen/Parte-2/5- Packets Primer.md",
     "Examenes/2do_examen/Parte-2/4- Lookey here.md",
@@ -188,30 +189,17 @@
     "Examenes/2do_examen/Parte-1/3- Local Authority.md",
     "Examenes/2do_examen/Parte-1/4- Search source.md",
     "Examenes/2do_examen/Parte-1/5- Forbidden Paths.md",
-    "Examenes/2do_examen/Parte-1/6- Power Cookie.md",
-    "Retos-Crypto/parte-2/3- b00tl3gRSA2.md",
     "Examenes",
     "Examenes/2do_examen",
-    "Retos-Crypto/parte-2/1-rsa-pop-quiz.md",
-    "Retos-Crypto/parte-2/2- miniRSA.md",
-    "Retos-Crypto/7- waves over lambda.md",
     "Retos-Crypto/parte-2",
-    "Retos-Crypto/6- Tapping.md",
-    "Retos-Crypto/5- la cifra de.md",
-    "Retos-Bandit/Level 26 → Level 27.md",
-    "Retos-Crypto/4- Easy1.md",
-    "Retos-Crypto/3- caesar.md",
     "Retos-Crypto",
     "Imagenes/Screenshot_2 1.png",
     "Retos-Forensic/Parte-3",
     "Imagenes/Screenshot_3.png",
     "Imagenes/Screenshot_2.png",
     "Imagenes/Screenshot_1 1.png",
-    "Retos-Forensic/Parte-2",
-    "Retos-Forensic/Parte-1",
     "Imagenes/garden.png",
     "Imagenes/flag.png",
-    "Imagenes",
     "Imagenes/Screenshot_1.png"
   ]
 }
