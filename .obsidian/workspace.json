@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reversing/5- vault-door-5.md",
+                "file": "Retos-Crypto/parte-3/5- ReadMyCert.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reversing/5- vault-door-5.md",
+                "file": "Retos-Crypto/parte-3/5- ReadMyCert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reversing/5- vault-door-5.md",
+                "file": "Retos-Crypto/parte-3/5- ReadMyCert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reversing/5- vault-door-5.md"
+                "file": "Retos-Crypto/parte-3/5- ReadMyCert.md"
               }
             }
           },
@@ -158,17 +158,24 @@
   },
   "active": "d5e6f9c33316bfda",
   "lastOpenFiles": [
-    "Reversing/4- vault-door-4.md",
-    "Reversing/5- vault-door-5.md",
-    "Reversing/3- vault-door-3.md",
-    "Reversing/2- vault-door-1.md",
-    "Reversing/1- vault-door-training.md",
-    "Retos-Crypto/parte-3/5- ReadMyCert.md",
-    "Reversing",
     "Retos-Crypto/parte-3/4- Pixelated.md",
     "Retos-Crypto/parte-3/3- HideToSee.md",
     "Retos-Crypto/parte-3/2- basic-mod1.md",
     "Retos-Crypto/parte-3/1- Mind your Ps and Qs.md",
+    "Retos-Crypto/parte-3/5- ReadMyCert.md",
+    "Reversing/parte-2/3- asm3.md",
+    "Imagenes/Screenshot_2 2.png",
+    "Reversing/parte-2/2- asm2.md",
+    "Reversing/parte-2/1- asm1.md",
+    "Reversing/parte-1/parte-1.rar",
+    "Reversing/parte-1/5- vault-door-5.md",
+    "Reversing/parte-2",
+    "Reversing/parte-1",
+    "Reversing/parte-1/4- vault-door-4.md",
+    "Reversing/parte-1/3- vault-door-3.md",
+    "Reversing/parte-1/2- vault-door-1.md",
+    "Reversing/parte-1/1- vault-door-training.md",
+    "Reversing",
     "Examenes/2do_examen/Parte-2/7- St3go.md",
     "Retos-Crypto/parte-3",
     "Retos-Crypto/parte-1",
@@ -185,16 +192,9 @@
     "Examenes/2do_examen/Parte-1/2- Inspect HTML.md",
     "Examenes/2do_examen/Parte-1",
     "Examenes/2do_examen/Parte-1/8- Secrets.md",
-    "Examenes/2do_examen/Parte-1/7- Roboto Sans.md",
-    "Examenes/2do_examen/Parte-1/3- Local Authority.md",
-    "Examenes/2do_examen/Parte-1/4- Search source.md",
-    "Examenes/2do_examen/Parte-1/5- Forbidden Paths.md",
     "Examenes",
     "Examenes/2do_examen",
-    "Retos-Crypto/parte-2",
-    "Retos-Crypto",
     "Imagenes/Screenshot_2 1.png",
-    "Retos-Forensic/Parte-3",
     "Imagenes/Screenshot_3.png",
     "Imagenes/Screenshot_2.png",
     "Imagenes/Screenshot_1 1.png",
